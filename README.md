@@ -1,2 +1,2 @@
 # UX-UI-Workshop
-# workshop 1
+# workshop 2
